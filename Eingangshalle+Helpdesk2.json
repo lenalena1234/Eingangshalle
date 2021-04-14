@@ -203,19 +203,15 @@
         {
          "columns":36,
          "firstgid":1153,
-         "image":"Raeume.PNG",
+         "image":"R\u00e4ume.PNG",
          "imageheight":321,
          "imagewidth":1169,
          "margin":0,
-         "name":"Raeume",
+         "name":"R\u00e4ume",
          "spacing":0,
          "tilecount":360,
          "tileheight":32,
          "tilewidth":32
-        }, 
-        {
-         "firstgid":1513,
-         "source":"OL_Innenraum_HGSS_Newtiteuf.tsx"
         }],
  "tilewidth":32,
  "type":"map",
