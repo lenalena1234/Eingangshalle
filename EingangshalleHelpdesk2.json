@@ -20,6 +20,7 @@
          "id":11,
          "name":"start",
          "opacity":1,
+         "tintcolor":"#ff0000",
          "type":"tilelayer",
          "visible":true,
          "width":60,
@@ -135,7 +136,7 @@
         {
          "columns":36,
          "firstgid":1153,
-         "image":"Raum.png",
+         "image":"Raum.PNG",
          "imageheight":321,
          "imagewidth":1169,
          "margin":0,
