@@ -20,7 +20,6 @@
          "id":11,
          "name":"start",
          "opacity":1,
-         "tintcolor":"#ff0000",
          "type":"tilelayer",
          "visible":true,
          "width":60,
